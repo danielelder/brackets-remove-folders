@@ -1,0 +1,23 @@
+{
+    "name": "brackets-remove-folders",
+    "title": "Remove folders from brackets",
+    "version": "1.0.0",
+    "description": "Remove folders from brackets file tree",
+    "homepage": "https://github.com/danielelder/brackets-remove-folders",
+    "author": "Dan Elder (https://github.com/danielelder/)",
+    "license": "MIT",
+    "categories":"formatting",
+    "keywords": [
+        "indexing",
+        "search",
+        "node",
+        "folders",
+        "remove"
+    ],
+    "files": [
+        "main.js"
+    ],
+    "engines": {
+        "brackets": ">=0.22.0"
+    }
+}
