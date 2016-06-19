@@ -3,7 +3,7 @@ Brackets extension to remove folders from file tree
 
 ## Overview
 
-Removes folders listed in the backets preferences file from the project file tree.
+Removes folders listed in the brackets preferences file from the project file tree.
 
 ## Getting Started
 
@@ -18,3 +18,11 @@ The extension will automatically remove folders listed in the preferences from t
 
 Remove or disable the extension to enable the folders in the tree view again.
 
+### Example brackets.json setting
+
+```
+"brackets.remove-folders.folders": [
+    "node_modules"
+]
+
+```
